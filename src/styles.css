@@ -1,0 +1,9 @@
+body{
+    background: url('https://www.pngmagic.com/product_images/Egg-White-solid-color-background.jpg') center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height:100vh;
+    margin: 0;
+    padding: 0;
+}
